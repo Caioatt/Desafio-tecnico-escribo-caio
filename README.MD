@@ -1,0 +1,3 @@
+# Como Rodar meu script
+
+Para rodar Meu script basta ter o sdk do flutter e dart instalado em sua maquina, e rodar o arquivo main.dart em alguma IDE, Ex: Android studio, VScode...
